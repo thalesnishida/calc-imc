@@ -14,6 +14,7 @@ import androidx.appcompat.app.AlertDialog
 
 class imcActivity : AppCompatActivity() {
 
+
     private lateinit var editWeight: EditText
     private lateinit var editHeight: EditText
     override fun onCreate(savedInstanceState: Bundle?) {
